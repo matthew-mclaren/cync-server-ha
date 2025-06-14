@@ -24,3 +24,5 @@ The server must be setup and working before using this integration.
 
 This setup has been tested and works well in my environment using **Cync Full Color Direct Connect Smart Bulbs**.  
 It may not work perfectly for everyone or different device types. Use at your own risk, and feel free to contribute improvements!
+
+baudneo appears to be doing a lot of work on this as well. I haven't tested it but it's probably worth checking his server/HA intergration out too https://github.com/baudneo/cync-lan
